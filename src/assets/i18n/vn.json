@@ -1,0 +1,68 @@
+{
+  "BACK_BUTTON_TEXT": "Back",
+
+  "NAME": "Tên",
+  "EMAIL": "Email",
+  "USERNAME": "Số Điện Thoại",
+  "PASSWORD": "Mật Khẩu",
+  "LOGIN": "Đăng nhập",
+  "SIGNUP": "Đăng ký",
+
+  "TAB1_TITLE": "Sản phẩm",
+  "TAB2_TITLE": "Tìm kiếm",
+  "TAB3_TITLE": "Cấu hình",
+
+  "MAP_TITLE": "Bản đồ",
+
+  "TUTORIAL_SKIP_BUTTON": "Bỏ qua",
+  "TUTORIAL_CONTINUE_BUTTON": "Tiếp tục",
+
+  "TUTORIAL_SLIDE1_TITLE": "Chào mừng đến với Nông Trang Thư Thoại",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "Bán các thể loại rau củ quả, thịt trứng cá",
+
+  "TUTORIAL_SLIDE2_TITLE": "Làm thế nào để mua hàng của chúng tôi?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Đơn giản, gọi theo số 0123456789",
+
+  "TUTORIAL_SLIDE3_TITLE": "Quy cách đổi trả hàng?",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Ahihi",
+
+  "TUTORIAL_SLIDE4_TITLE": "Thông tin liên hệ",
+
+  "WELCOME_INTRO": "Nông Trang Thư Thoại",
+
+  "SETTINGS_TITLE": "Cấu hình",
+  "SETTINGS_OPTION1": "Option 1",
+  "SETTINGS_OPTION2": "Option 2",
+  "SETTINGS_OPTION3": "Option 3",
+  "SETTINGS_OPTION4": "Option 4",
+
+  "SETTINGS_PROFILE_BUTTON": "Sủa thông tin cá nhân",
+
+  "SETTINGS_PAGE_PROFILE": "Sủa thông tin cá nhân",
+
+  "WELCOME_TITLE": "Chào mừng",
+
+  "LOGIN_TITLE": "Đăng nhập",
+  "LOGIN_ERROR": "Có lỗi xảy ra, liên hệ ngay a Nguyên",
+  "LOGIN_BUTTON": "Đăng nhập",
+  "SIGNUP_TITLE": "Đăng ký",
+  "SIGNUP_ERROR": "Không tạo được account đâu, liên hệ a Nguyên đi",
+  "SIGNUP_BUTTON": "Đăng ký",
+
+  "LIST_MASTER_TITLE": "Sản phẩm",
+
+  "ITEM_CREATE_TITLE": "Thêm sản phẩm mới",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Ảnh mới",
+
+  "ITEM_NAME_PLACEHOLDER": "Tên",
+  "ITEM_ABOUT_PLACEHOLDER": "Thông tin",
+
+  "DONE_BUTTON": "Xong",
+  "CANCEL_BUTTON": "Dừng lại",
+  "DELETE_BUTTON": "Xóa",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Tìm kiếm",
+  "SEARCH_PLACEHOLDER": "Tìm kiếm sản phẩm bạn muốn, ví dụ. \"Rau muống\""
+}
